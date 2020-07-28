@@ -1,0 +1,4 @@
+[submodule "publi"]
+	path = publi
+	url = https://github.com/sws-admin/sws-admin.github.io.git
+	branch = master
