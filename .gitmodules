@@ -1,0 +1,4 @@
+[submodule "sws-admin.github.io"]
+	path = sws-admin.github.io
+	url = https://github.com/sws-admin/sws-admin.github.io.git
+	branch = master
