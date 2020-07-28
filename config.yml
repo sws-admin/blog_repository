@@ -1,5 +1,5 @@
 baseurl: "/"
-title: 쉐리샵-어드민 Release Note
+title: 쉐리샵 Release Note
 theme: ghostwriter
 languageCode: ko-kr
 copyright: 이피엔스
@@ -37,7 +37,7 @@ params:
     - post
   intro: true
   headline: Realease Note
-  description: 쉐리샵 어드민
+  description: 쉐리샵
   email: kimehfud1@epiens.com
   opengraph: true
   dateFormat: "Mon, Jan 2, 2006"
